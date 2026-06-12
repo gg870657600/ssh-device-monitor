@@ -1,0 +1,57 @@
+[
+  {
+    "time": "2026-06-11 15:40:11",
+    "command": "get-if-rx-curesn0--bid-3-pid-1-chid-1",
+    "parsed": [
+      {
+        "ESN0": "25.400599",
+        "EBN0": "23.639687"
+      }
+    ],
+    "raw": "get-if-rx-curesn0:@bid=3&pid=1&chid=1\n            GET-IF-RX-CURESN0\n  BID  PID  CHID  ESN0       EBN0\n  3    1    1     25.400599  23.639687\n  OK! 1 Records!\n[2026-06-11 15:40:11] [root@NE_name] # "
+  },
+  {
+    "time": "2026-06-11 15:40:12",
+    "command": "get-if-rx-curesn0--bid-3-pid-1-chid-1",
+    "parsed": [
+      {
+        "ESN0": "25.358326",
+        "EBN0": "23.597414"
+      }
+    ],
+    "raw": "get-if-rx-curesn0:@bid=3&pid=1&chid=1\n            GET-IF-RX-CURESN0\n  BID  PID  CHID  ESN0       EBN0\n  3    1    1     25.358326  23.597414\n  OK! 1 Records!\n[2026-06-11 15:40:12] [root@NE_name] # "
+  },
+  {
+    "time": "2026-06-11 15:40:13",
+    "command": "get-if-rx-curesn0--bid-3-pid-1-chid-1",
+    "parsed": [
+      {
+        "ESN0": "25.548279",
+        "EBN0": "23.787367"
+      }
+    ],
+    "raw": "get-if-rx-curesn0:@bid=3&pid=1&chid=1\n            GET-IF-RX-CURESN0\n  BID  PID  CHID  ESN0       EBN0\n  3    1    1     25.548279  23.787367\n  OK! 1 Records!\n[2026-06-11 15:40:13] [root@NE_name] # "
+  },
+  {
+    "time": "2026-06-11 15:40:14",
+    "command": "get-if-rx-curesn0--bid-3-pid-1-chid-1",
+    "parsed": [
+      {
+        "ESN0": "25.411900",
+        "EBN0": "23.650988"
+      }
+    ],
+    "raw": "get-if-rx-curesn0:@bid=3&pid=1&chid=1\n            GET-IF-RX-CURESN0\n  BID  PID  CHID  ESN0       EBN0\n  3    1    1     25.411900  23.650988\n  OK! 1 Records!\n[2026-06-11 15:40:14] [root@NE_name] # "
+  },
+  {
+    "time": "2026-06-11 15:40:15",
+    "command": "get-if-rx-curesn0--bid-3-pid-1-chid-1",
+    "parsed": [
+      {
+        "ESN0": "25.459970",
+        "EBN0": "23.699059"
+      }
+    ],
+    "raw": "get-if-rx-curesn0:@bid=3&pid=1&chid=1\n            GET-IF-RX-CURESN0\n  BID  PID  CHID  ESN0       EBN0\n  3    1    1     25.459970  23.699059\n  OK! 1 Records!\n[2026-06-11 15:40:15] [root@NE_name] # "
+  }
+]
